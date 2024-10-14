@@ -1,3 +1,3 @@
 let a = 10;
-console.log("b");
-console.log("webhook")
+let b = 20;
+console.log(a + b);
